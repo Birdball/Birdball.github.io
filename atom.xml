@@ -1,13 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Birdball.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-10-26T13:22:38.441Z</updated>
+    <title>Chocoball</title>
+    <updated>2021-10-28T15:15:52.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Birdball.github.io"/>
     <link rel="self" href="https://Birdball.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>我的小黑屋</subtitle>
     <logo>https://Birdball.github.io/images/avatar.png</logo>
     <icon>https://Birdball.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Chocoball</rights>
+    <entry>
+        <title type="html"><![CDATA[我开始降低我的关注面了]]></title>
+        <id>https://Birdball.github.io/post/wo-kai-shi-jiang-di-wo-de-guan-zhu-mian-liao/</id>
+        <link href="https://Birdball.github.io/post/wo-kai-shi-jiang-di-wo-de-guan-zhu-mian-liao/">
+        </link>
+        <updated>2021-10-28T14:12:53.000Z</updated>
+        <content type="html"><![CDATA[<p>在半个月前的DOTA2 Ti10国际邀请赛决赛中，我支持的LGD战队以一种匪夷所思的方式输掉了比赛。作为一名DOTA2玩家，这给我的打击不亚于像是失恋一样。这其中的过程不必多说。比赛结束后，我决定再也不关注这个陪伴了我近10年的游戏。我先从B站上取关了所有与此相关的UP主，从推荐算法中手动删除DOTA2标签，在微博里取关所有相关的人，删除相关的游戏社区app...<br>
+<img src="https://Birdball.github.io/post-images/1635430934528.jpg" alt="" loading="lazy"></p>
+<p>在这个清理关注列表的过程中我发现我每天关注的信息实在是太多了</p>
+<p>🎮DOTA2:<br>
+我每天要浏览MAX+的新闻，然后在社区论坛闲逛。<br>
+在B站要看好几个UP的直播剪辑，了解刀圈的梗和新闻。<br>
+微博关注了很多职业选手和战队工作人员了解一线信息。</p>
+<p>🏀篮球相关:<br>
+虽然自己很久不打了，但是会上虎扑查看比赛信息，了解NBA的新闻和八卦<br>
+每天比赛的集锦和数据都要看一下<br>
+偶尔还会在虎扑的社区逛一逛</p>
+<p>🎮影之诗相关:<br>
+自己有段时间没有玩的卡牌游戏了，但是因为没有取关相关的up主，每次看到新内容就会忍不住顺手进去了解下</p>
+<p>🎮明日方舟&amp;原神:<br>
+同上</p>
+<p>🎮FF14:<br>
+FF14是我玩了相当长一段时间的游戏，自然也关注了很多人。</p>
+<p>🖌️设计相关:<br>
+作为一个UI/UX从业者，自然也关注了很多设计up，但也还有视频动效up，工业设计up</p>
+<p>🎮游戏资讯：<br>
+关注了一些游戏资讯的up，确保自己不错过每一个新游戏的新闻</p>
+<p>📱数码科技：<br>
+我自己也是个数码爱好者，关注的一些up能及时推给我相关的资讯和评测信息</p>
+<p>🐧水群:<br>
+因为关注游戏，所以有好多游戏qq群。众所周知，众多游戏群的沙雕属性非常高，所以每天在里面水群获取快乐的时间并不少</p>
+<p>这些都是我在关注的内容，这些使用接收信息流的时间变得更长，打开不同app的频率越来越高，不知不觉的侵蚀了我非常多的时间。同时我每天还要花时间玩健身环健身，学习英语，学习code design，买了一堆设计和心理学相关的书也要花时间看，好多游戏也堆积着没有时间去玩。我每天接收的信息好像实在是太多了。每一个领域我都想去了解，不知不觉在这些上面花掉了太多的时间。<br>
+<img src="https://Birdball.github.io/post-images/1635432541422.jpg" alt="" loading="lazy"></p>
+<p>屏蔽了所有DOTA2信息后我突然发现，好像其它领域的东西我也不是非关注不可。</p>
+<p>·我卸载了虎扑，因为我很久没打篮球了。说实话兴趣并不大，一直以来只是自己学生时代的留下来的习惯让自己去关注。<br>
+·所有游戏相关的信息我也屏蔽掉了，只留下了一两个资讯类的微博，确保自己能简短的知道自己想玩的游戏什么时候发售。<br>
+·设计相关的信息倒是没有怎么屏蔽，因为我关注的几个up质量都非常的高，所以每次的更新频率并不是很高，我不会频繁的打开app查看他们更新没有，所以没有占据我大部分时间<br>
+·数码科技我屏蔽了一些官方账号，只保留了一部分高质量内容的up，理由同上</p>
+<p>一顿操作下来我的微博关注数从近300个降低到了80个，其中剩下的80个中有一半是认识的朋友，碍于情面不太好取关。这让我每次打开微博，经常两三屏就刷完了所有新信息。这半个月中我打开微博的频率和单次使用时间明显减少</p>
+<p>B站也是同理。从以前感觉一天看不完的B站到现在觉得这些up怎么更新这么慢。</p>
+<p>把不少沙雕qq群的消息提醒模式设置成了「收入群聊助手且不提醒」为自己水群添加阻碍，成功减少了水群次数和时间。</p>
+<p>很多像是MAX，NGA的社区论坛删除后，日常点亮屏幕频率也越来越少。以前晚上睡觉抱着手机感觉还有好多东西没有看，依依不舍的放下手机睡觉。现在是真的找不到还有什么可以看的了，干脆睡觉吧。</p>
+<p>最后，感觉这几年从未有感觉生活如此的清爽过。智能时代让我们接收的信息爆炸式的增长，稍不注意就陷入信息的洪流之中。庆幸LGD输掉了比赛，不然我现在一定还在MAX社区里，看水友们LGD 咚咚咚！然后一不小心就抱着手机到了晚上两点钟<br>
+<img src="https://Birdball.github.io/post-images/1635434144565.gif" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://Birdball.github.io/post/about/</id>
+        <link href="https://Birdball.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>随便写点东西，练练文笔，多半也没有人看<br>
+<img src="https://Birdball.github.io/post-images/1635429211093.jpg" alt="" width="400" height="347" loading="lazy"></p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>职业是UI/UX，普通互联网民工。虽然有时候很辛苦，但我喜欢我的工作<br>
+心里很又很多想法但是不爱说出来的人</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>半个ACG爱好者，以前还算涉猎广泛现在口味越来越刁钻，把留给爱好的时间也越来越少<br>
+<img src="https://Birdball.github.io/post-images/1635429459325.jpeg" alt="" loading="lazy"></p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>以后再来写</p>
+]]></content>
+    </entry>
 </feed>
