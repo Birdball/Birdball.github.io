@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Birdball.github.io</id>
     <title>Chocoball</title>
-    <updated>2021-10-29T14:05:59.286Z</updated>
+    <updated>2021-11-08T13:13:43.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Birdball.github.io"/>
     <link rel="self" href="https://Birdball.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://Birdball.github.io/images/avatar.png</logo>
     <icon>https://Birdball.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Chocoball</rights>
+    <entry>
+        <title type="html"><![CDATA[2021-11-08 星期一]]></title>
+        <id>https://Birdball.github.io/post/2021-11-08-xing-qi-yi/</id>
+        <link href="https://Birdball.github.io/post/2021-11-08-xing-qi-yi/">
+        </link>
+        <updated>2021-11-08T13:04:09.000Z</updated>
+        <content type="html"><![CDATA[<p>每个周一的早上起床都很痛苦。倒不是因为开始上班让我很痛苦，而是痛恨周六熬夜的自己导致自己周日晚上睡不着，从而以一种完全没睡够的状态艰难起床。再加上今天气温骤降，让起床这件事更是难上加难</p>
+<p>成都的疫情似乎想当严重了。又恢复到了严查口罩健康码的时期了，并且随时都有可能被拉出去做核酸检测。我是真的不想在这个天气排2、3个小时的队做核酸检测。也许人没中招，倒是因为吹风感冒发烧了</p>
+<p>晚上回家一如既往的因为没睡够先躺了将近一小时恢复状态，然后起身学习了一会儿html+css。作为一个设计师，还是觉得自己来亲自写样式反而更能提高工作上的效率和避免沟通上的损耗</p>
+<p>学完后看一集剑风传奇就睡吧</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我开始降低我的关注面了]]></title>
         <id>https://Birdball.github.io/post/wo-kai-shi-jiang-di-wo-de-guan-zhu-mian-liao/</id>
