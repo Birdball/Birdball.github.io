@@ -2,14 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Birdball.github.io</id>
     <title>Chocoball</title>
-    <updated>2021-12-29T16:32:16.831Z</updated>
+    <updated>2022-01-28T17:31:34.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Birdball.github.io"/>
     <link rel="self" href="https://Birdball.github.io/atom.xml"/>
     <subtitle>我的小黑屋</subtitle>
     <logo>https://Birdball.github.io/images/avatar.png</logo>
     <icon>https://Birdball.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Chocoball</rights>
+    <rights>All rights reserved 2022, Chocoball</rights>
+    <entry>
+        <title type="html"><![CDATA[2022 Sat Jan 29]]></title>
+        <id>https://Birdball.github.io/post/2022-sat-jan-29/</id>
+        <link href="https://Birdball.github.io/post/2022-sat-jan-29/">
+        </link>
+        <updated>2022-01-28T17:18:23.000Z</updated>
+        <content type="html"><![CDATA[<p>自从找到新的工作以后，就持续性的开始怠惰。英语的学习开始走走停停，CSS的进阶学习则是完全停滞了，健身环也开始三天打鱼两天晒网。再加上迫近年末实在提不起什么干劲。</p>
+<p>这段时间也正好《最终幻想14 6.0》国际服上线了，我又和朋友玩起了这个快时隔两年没有认真玩过的游戏。一个月的时间每天晚上都花了不少时间和精力在这上面。从功利性的角度上来说，这一个月非常荒废，学习陷入停滞，健身也开始怠惰。但感受到了久违的快乐，找回了一些以前快乐的时光。恰好这一个月也把游戏自己感兴趣的内容玩的差不多了，下一次游戏更新是大概两个月后了，而且更新的内容应该只够我玩两个星期。这期间的两个月又可以保持学习健身的状态了。感觉这样松弛有度的节奏也蛮不错的。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的2021年]]></title>
         <id>https://Birdball.github.io/post/wo-de-2021-nian/</id>
