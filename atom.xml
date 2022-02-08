@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Birdball.github.io</id>
     <title>Chocoball</title>
-    <updated>2022-01-30T05:32:20.492Z</updated>
+    <updated>2022-02-08T15:07:30.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Birdball.github.io"/>
     <link rel="self" href="https://Birdball.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://Birdball.github.io/images/avatar.png</logo>
     <icon>https://Birdball.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Chocoball</rights>
+    <entry>
+        <title type="html"><![CDATA[2022-02-08 周二]]></title>
+        <id>https://Birdball.github.io/post/2022-02-08-zhou-er/</id>
+        <link href="https://Birdball.github.io/post/2022-02-08-zhou-er/">
+        </link>
+        <updated>2022-02-08T14:53:44.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>今天去了新的公司报道，办理了很多流程，处理了很多事情，下午还工作了一会儿。很久没有因为接收了这么的信息量导致猪脑过载了。上一次这种情况还是开展新项目的时候，大概得有小半年了。</p>
+<p>突然不想写了....鸽</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 Sat Jan 29]]></title>
         <id>https://Birdball.github.io/post/2022-sat-jan-29/</id>
